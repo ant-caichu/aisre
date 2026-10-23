@@ -1,2 +1,2 @@
 # aisre
-Skills for AI SRE Agent
+Thinking, practices for AI SRE Agent
